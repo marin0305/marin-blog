@@ -4,8 +4,7 @@ export default defineConfig({
   title: "瑪奇朵的個人空間",
   description: "隨筆紀錄",
 
-  srcDir: 'docs',
-  cleanUrls: true,
+  base: '/',
 
   themeConfig: {
     nav: [
