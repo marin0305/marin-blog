@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "瑪奇朵的個人空間",
   description: "隨筆紀錄",
-  base: '/',
+
   srcDir: 'docs',
   cleanUrls: true,
 
